@@ -7,7 +7,7 @@ This repository contains a simple Svelte project aimed at helping me learn and p
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/svelte-pages-workers.git
+   git clone https://github.com/Aron-Lomner/practice-svelte-cloudflare-workers.git
    ```
 
 2. **Install Dependencies:**
